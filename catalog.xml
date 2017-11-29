@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<katalog>
+	<sok>
+		<ime>Coca-cola</ime>
+		<neto>2l</neto>
+	</sok>
+	<sok>
+		<ime>Fanta</ime>
+		<neto>1l</neto>
+	</sok>
+	<sok>
+		<ime>Sprite</ime>
+		<neto>1.5l</neto>
+	</sok>
+	<sok>
+		<ime>RedBull</ime>
+		<neto>0.3l</neto>
+	</sok>
+	<sok>
+		<ime>Ultra</ime>
+		<neto>0.3l</neto>
+	</sok>
+	<sok>
+		<ime>Hello</ime>
+		<neto>2l</neto>
+	</sok>
+	<sok>
+		<ime>Booster</ime>
+		<neto>0.5l</neto>
+	</sok>
+</katalog>
