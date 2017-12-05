@@ -4,7 +4,7 @@
 	<html>
 		<body>
 			<table border="1">
-				<tr bg-color="green">
+				<tr style="background:red">
                    <th style="text-align:left">Title</th>
                    <th style="text-align:left">Artist</th>
 				</tr>
